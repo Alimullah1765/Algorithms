@@ -25,6 +25,8 @@ if __name__ == '__main__':
     res = Linear_Search(li, t)
     print(res)
 
+
+# String Searching
 def leaneear_surch(Libaray,t):
    n = len(libaray)
     #print(n)
